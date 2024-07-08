@@ -125,6 +125,9 @@
   
 - **ITIL v4 (Information Technology Infrastructure Library)** : es un conjunto de prácticas para la gestión de servicios de TI (ITSM) que se enfoca en la alineación de los servicios de TI con las necesidades del negocio. ITIL v4 introduce un enfoque más flexible y adaptable, incorporando principios como la co-creación de valor, la gestión de servicios como un sistema y la mejora continua. Su objetivo es mejorar la eficiencia, efectividad y satisfacción del cliente en la entrega de servicios de TI.
 
+- **Que es una Norma ?**
+-  Documento aprobado por un organismo reconocido que establece especificaciones técnicas precisas para ser usadas como guías para elcorrecto desarrollo de una actividad. Establecen que hay que cumplir en determinados productos, procesos o servicios. Las normas son elaboradas por consenso (fabricantes, administración, consumidores, laboratorios, entes profesionales, centros de investigación, etc), están basadas en los resultados de la experiencia, las “mejores prácticas” y el desarrollo tecnológico.
+
 ### Ciclo PHVA (PDCA) o Ciclo de Deming
 
 **Definición**
