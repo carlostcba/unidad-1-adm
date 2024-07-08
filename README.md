@@ -51,6 +51,9 @@
 **Ejemplo:** Una empresa puede necesitar cumplir con la Ley de Protección de Datos Personales para asegurar que los datos de sus clientes estén protegidos. Este cumplimiento no solo evita sanciones legales, sino que también mejora la reputación de la empresa.
 
 ### ¿Qué son los acuerdos de niveles de servicio (SLA) y por qué son relevantes?
+
+
+
 **Respuesta:** Los SLA (Service Level Agreements) son acuerdos que definen los niveles de servicio esperados entre un proveedor de TI y sus clientes. Son relevantes porque establecen expectativas claras y medibles sobre la calidad y disponibilidad de los servicios, lo que ayuda a mantener la satisfacción del cliente y la eficiencia operativa.
 
 **Ejemplo:** Un SLA puede especificar que el soporte técnico debe responder a las solicitudes de los usuarios dentro de las 24 horas. Esto establece una expectativa clara y medible para ambos, el proveedor del servicio y el cliente.
@@ -330,6 +333,10 @@ El IT Compliance es el cumplimiento de todas las normas legales, regulaciones y 
 
 
 ## SLA (Service Level Agreement) - Definición y Significado
+
+- Un SLA es un contrato entre un proveedor de servicios y sus clientes internos o externos que documenta qué serviciosproporcionará el proveedor y define los estándares de servicio que el proveedor está obligado a cumplir.
+-Ejemplo: una tienda de comercio electrónico firma un SLA con un fabricante para crear sus camisetas. El SLA estipula los servicios prestados por el fabricante a la tienda de comercio electrónico individual. El acuerdo incluye aspectos como la calidad de los materiales, la cantidad de camisetas que se producirán en un tiempo determinado y las fechas de entrega.
+
 - Un SLA es un acuerdo entre un cliente y un proveedor que establece las pautas y métricas para el nivel de servicio esperado.
 - Ejemplo: Si el cliente contrata un servicio con un SLA del 99.9% de disponibilidad, significa que el proveedor debe garantizar que el servicio esté activo y funcionando el 99.9% del tiempo.
 
